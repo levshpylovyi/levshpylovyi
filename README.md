@@ -8,3 +8,17 @@ Hi! I'm Lev 👋
 <p align='center'>
    📫 How to reach me: <a href='mailto:levshpylovyi@gmail.com'>levshpylovyi.com</a>
 </p>
+
+
+### Key points
+* Incomplete higher education (3rd year of study)
+
+
+* 
+## 🛠 Technical Stack
+*   Java/JavaScript/Python/C++/R
+*   MySQL, MariaDB
+*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   Adobe Photoshop, Figma, Corel Draw
+*   * LINUX and Windows at the user level
+*   * Basic knowledge of SQL and databases
