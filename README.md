@@ -12,13 +12,14 @@ Hi! I'm Lev 👋
 
 ### Key points
 * Incomplete higher education (3rd year of study)
+* English at level B2
+* Polish at C1 level
+* Ukrainian and Russian languages at the level of conversational
 
-
-* 
 ## 🛠 Technical Stack
 *   Java/JavaScript/Python/C++/R
 *   MySQL, MariaDB
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   Adobe Photoshop, Figma, Corel Draw
-*   * LINUX and Windows at the user level
-*   * Basic knowledge of SQL and databases
+*   LINUX and Windows at the user level
+*   Basic knowledge of SQL and databases
