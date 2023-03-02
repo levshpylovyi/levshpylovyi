@@ -21,5 +21,6 @@ Hi! I'm Lev 👋
 *   MySQL, MariaDB
 *   Camunda, Camunda Cockpit, Camunda Modeleter
 *   Adobe Photoshop, Figma, Corel Draw
+*   Microsoft 365 (Office)
 *   LINUX and Windows at the user level
 *   Basic knowledge of SQL and databases
