@@ -1,5 +1,5 @@
 Hi! I'm Lev 👋
-![image]({www.linkedin.com/in/lev-shpylovyi-993634222})
+![Linkedin-Logo.png]({www.linkedin.com/in/lev-shpylovyi-993634222})
 <!--
 **levshpylovyi/levshpylovyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
