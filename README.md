@@ -13,7 +13,7 @@ Hi! I'm Lev 👋
 ### Key points
 * Incomplete higher education (3rd year of study)
 * English at level B2
-* Polish at C1 level
+* Polish at level C1 
 * Ukrainian and Russian languages at the level of conversational
 
 ## 🛠 Technical Stack
