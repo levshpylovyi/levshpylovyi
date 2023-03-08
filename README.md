@@ -18,9 +18,8 @@ Hi! I'm Lev 👋
 
 ## 🛠 Technical Stack
 *   Java/JavaScript/Python/C++/R
-*   MySQL, MariaDB
-*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   Basic knowledge of SQL and databases
+*   LINUX and Windows at the user level
+*   Camunda, Camunda Modeleter
 *   Adobe Photoshop, Figma, Corel Draw
 *   Microsoft 365 (Office)
-*   LINUX and Windows at the user level
-*   Basic knowledge of SQL and databases
